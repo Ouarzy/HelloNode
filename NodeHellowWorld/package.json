@@ -1,0 +1,10 @@
+{
+  "name": "NodeHellowWorld",
+  "version": "0.0.0",
+  "description": "NodeHellowWorld",
+  "main": "server.js",
+  "author": {
+    "name": "emi",
+    "email": ""
+  }
+}

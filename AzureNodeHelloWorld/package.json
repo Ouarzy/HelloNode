@@ -1,0 +1,10 @@
+{
+  "name": "AzureNodeHelloWorld",
+  "version": "0.0.0",
+  "description": "AzureNodeHelloWorld",
+  "main": "server.js",
+  "author": {
+    "name": "emi",
+    "email": ""
+  }
+}
